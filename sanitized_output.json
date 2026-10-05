@@ -1,0 +1,1 @@
+{"original_prompt":"Analyze this error log containing api key sk_1234567890abcdefghij and alert admin@company.com immediately.","sanitized_prompt":"Analyze this error log containing api key [REDACTED_API_CREDENTIAL] and alert [REDACTED_EMAIL] immediately.","pii_detected":true,"blocked_entities":["Email Address","System Secret/API Key"],"compliance_status":"PASSED_WITH_REDACTION"}
